@@ -1,0 +1,3 @@
+My Code Tutorial
+================
+Run $python hw1_Wei_Wei.py on your terminal
